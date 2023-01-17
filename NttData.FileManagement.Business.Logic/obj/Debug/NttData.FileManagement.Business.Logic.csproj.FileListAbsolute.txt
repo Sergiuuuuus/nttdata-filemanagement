@@ -8,4 +8,3 @@ C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Bus
 C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Business.Logic\bin\Debug\NttData.FileManagement.DataAccess.Repository.dll
 C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Business.Logic\bin\Debug\NttData.FileManagement.Common.Model.pdb
 C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Business.Logic\bin\Debug\NttData.FileManagement.DataAccess.Repository.pdb
-C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Business.Logic\obj\Debug\NttData.FileManagement.Business.Logic.csproj.CopyComplete
