@@ -1,0 +1,9 @@
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\bin\Debug\NttData.FileManagement.DataAccess.Repository.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\bin\Debug\NttData.FileManagement.DataAccess.Repository.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\obj\Debug\NttData.FileManagement.DataAccess.Repository.csproj.AssemblyReference.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\obj\Debug\NttData.FileManagement.DataAccess.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\obj\Debug\NttData.FileManagement.DataAccess.Repository.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\obj\Debug\NttData.FileManagement.DataAccess.Repository.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\bin\Debug\NttData.FileManagement.Common.Model.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\bin\Debug\NttData.FileManagement.Common.Model.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.DataAccess.Repository\obj\Debug\NttData.FileManagement.DataAccess.Repository.csproj.CopyComplete

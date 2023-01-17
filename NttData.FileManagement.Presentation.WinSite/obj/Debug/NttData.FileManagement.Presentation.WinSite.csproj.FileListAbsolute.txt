@@ -1,0 +1,14 @@
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Presentation.WinSite.exe.config
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Presentation.WinSite.exe
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Presentation.WinSite.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.csproj.AssemblyReference.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.Properties.Resources.resources
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.csproj.GenerateResource.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.csproj.CoreCompileInputs.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.exe
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Business.Logic.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Common.Model.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Business.Logic.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\bin\Debug\NttData.FileManagement.Common.Model.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Presentation.WinSite\obj\Debug\NttData.FileManagement.Presentation.WinSite.csproj.CopyComplete
