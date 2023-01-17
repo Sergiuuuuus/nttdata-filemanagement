@@ -1,0 +1,6 @@
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Common.Model\bin\Debug\NttData.FileManagement.Common.Model.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Common.Model\bin\Debug\NttData.FileManagement.Common.Model.pdb
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Common.Model\obj\Debug\NttData.FileManagement.Common.Model.csproj.AssemblyReference.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Common.Model\obj\Debug\NttData.FileManagement.Common.Model.csproj.CoreCompileInputs.cache
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Common.Model\obj\Debug\NttData.FileManagement.Common.Model.dll
+C:\Users\sluzonlo\source\repos\NttData.FileManagement\NttData.FileManagement.Common.Model\obj\Debug\NttData.FileManagement.Common.Model.pdb
